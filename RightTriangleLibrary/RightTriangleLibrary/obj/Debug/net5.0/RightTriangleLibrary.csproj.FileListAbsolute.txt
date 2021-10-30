@@ -1,0 +1,12 @@
+C:\Users\r350l\source\repos\RightTriangleLibrary\RightTriangleLibrary\bin\Debug\net5.0\RightTriangleLibrary.deps.json
+C:\Users\r350l\source\repos\RightTriangleLibrary\RightTriangleLibrary\bin\Debug\net5.0\RightTriangleLibrary.dll
+C:\Users\r350l\source\repos\RightTriangleLibrary\RightTriangleLibrary\bin\Debug\net5.0\ref\RightTriangleLibrary.dll
+C:\Users\r350l\source\repos\RightTriangleLibrary\RightTriangleLibrary\bin\Debug\net5.0\RightTriangleLibrary.pdb
+C:\Users\r350l\source\repos\RightTriangleLibrary\RightTriangleLibrary\obj\Debug\net5.0\RightTriangleLibrary.csproj.AssemblyReference.cache
+C:\Users\r350l\source\repos\RightTriangleLibrary\RightTriangleLibrary\obj\Debug\net5.0\RightTriangleLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r350l\source\repos\RightTriangleLibrary\RightTriangleLibrary\obj\Debug\net5.0\RightTriangleLibrary.AssemblyInfoInputs.cache
+C:\Users\r350l\source\repos\RightTriangleLibrary\RightTriangleLibrary\obj\Debug\net5.0\RightTriangleLibrary.AssemblyInfo.cs
+C:\Users\r350l\source\repos\RightTriangleLibrary\RightTriangleLibrary\obj\Debug\net5.0\RightTriangleLibrary.csproj.CoreCompileInputs.cache
+C:\Users\r350l\source\repos\RightTriangleLibrary\RightTriangleLibrary\obj\Debug\net5.0\RightTriangleLibrary.dll
+C:\Users\r350l\source\repos\RightTriangleLibrary\RightTriangleLibrary\obj\Debug\net5.0\ref\RightTriangleLibrary.dll
+C:\Users\r350l\source\repos\RightTriangleLibrary\RightTriangleLibrary\obj\Debug\net5.0\RightTriangleLibrary.pdb
