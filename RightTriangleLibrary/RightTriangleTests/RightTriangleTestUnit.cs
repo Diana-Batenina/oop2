@@ -24,7 +24,7 @@ namespace RightTriangleTests
             [TestMethod]
             public void ToStringTestMethod()
             {
-                Assert.AreEqual("Сторона А=3, Сторона В=4", CreateTestTriangle().ToString());
+                Assert.AreEqual("РЎС‚РѕСЂРѕРЅР° Рђ=3, РЎС‚РѕСЂРѕРЅР° Р’=4", CreateTestTriangle().ToString());
             }
 
             [TestMethod]
@@ -35,8 +35,8 @@ namespace RightTriangleTests
 
                 var consoleOut = new[]
                 {
-                        "Прямоугольный треугольник со сторонами 3см и 4см",
-                        "Прямоугольный треугольник со сторонами 6см и 8см",
+                        "РџСЂСЏРјРѕСѓРіРѕР»СЊРЅС‹Р№ С‚СЂРµСѓРіРѕР»СЊРЅРёРє СЃРѕ СЃС‚РѕСЂРѕРЅР°РјРё 3СЃРј Рё 4СЃРј",
+                        "РџСЂСЏРјРѕСѓРіРѕР»СЊРЅС‹Р№ С‚СЂРµСѓРіРѕР»СЊРЅРёРє СЃРѕ СЃС‚РѕСЂРѕРЅР°РјРё 6СЃРј Рё 8СЃРј",
                 };
 
                 TextWriter oldOut = Console.Out;
@@ -78,7 +78,7 @@ namespace RightTriangleTests
 
                 RightTriangle t2 = x * t1;
 
-                Assert.AreEqual("Сторона А=40, Сторона В=75", t2.ToString());
+                Assert.AreEqual("РЎС‚РѕСЂРѕРЅР° Рђ=40, РЎС‚РѕСЂРѕРЅР° Р’=75", t2.ToString());
 
             }
             private RightTriangle CreateTestTriangle()
