@@ -1,0 +1,16 @@
+C:\Users\r3s0l\source\repos\OOPtask5\OOPtask5\bin\Debug\net5.0\OOPtask5.exe
+C:\Users\r3s0l\source\repos\OOPtask5\OOPtask5\bin\Debug\net5.0\OOPtask5.deps.json
+C:\Users\r3s0l\source\repos\OOPtask5\OOPtask5\bin\Debug\net5.0\OOPtask5.runtimeconfig.json
+C:\Users\r3s0l\source\repos\OOPtask5\OOPtask5\bin\Debug\net5.0\OOPtask5.runtimeconfig.dev.json
+C:\Users\r3s0l\source\repos\OOPtask5\OOPtask5\bin\Debug\net5.0\OOPtask5.dll
+C:\Users\r3s0l\source\repos\OOPtask5\OOPtask5\bin\Debug\net5.0\ref\OOPtask5.dll
+C:\Users\r3s0l\source\repos\OOPtask5\OOPtask5\bin\Debug\net5.0\OOPtask5.pdb
+C:\Users\r3s0l\source\repos\OOPtask5\OOPtask5\obj\Debug\net5.0\OOPtask5.csproj.AssemblyReference.cache
+C:\Users\r3s0l\source\repos\OOPtask5\OOPtask5\obj\Debug\net5.0\OOPtask5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r3s0l\source\repos\OOPtask5\OOPtask5\obj\Debug\net5.0\OOPtask5.AssemblyInfoInputs.cache
+C:\Users\r3s0l\source\repos\OOPtask5\OOPtask5\obj\Debug\net5.0\OOPtask5.AssemblyInfo.cs
+C:\Users\r3s0l\source\repos\OOPtask5\OOPtask5\obj\Debug\net5.0\OOPtask5.csproj.CoreCompileInputs.cache
+C:\Users\r3s0l\source\repos\OOPtask5\OOPtask5\obj\Debug\net5.0\OOPtask5.dll
+C:\Users\r3s0l\source\repos\OOPtask5\OOPtask5\obj\Debug\net5.0\ref\OOPtask5.dll
+C:\Users\r3s0l\source\repos\OOPtask5\OOPtask5\obj\Debug\net5.0\OOPtask5.pdb
+C:\Users\r3s0l\source\repos\OOPtask5\OOPtask5\obj\Debug\net5.0\OOPtask5.genruntimeconfig.cache

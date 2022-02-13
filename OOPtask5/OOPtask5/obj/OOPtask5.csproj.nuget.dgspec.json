@@ -1,0 +1,54 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\dbate\\OneDrive\\Documents\\иски\\2 курс\\Объектно-ориентированное программирование\\OOPtask5\\OOPtask5\\OOPtask5.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\dbate\\OneDrive\\Documents\\иски\\2 курс\\Объектно-ориентированное программирование\\OOPtask5\\OOPtask5\\OOPtask5.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dbate\\OneDrive\\Documents\\иски\\2 курс\\Объектно-ориентированное программирование\\OOPtask5\\OOPtask5\\OOPtask5.csproj",
+        "projectName": "OOPtask5",
+        "projectPath": "C:\\Users\\dbate\\OneDrive\\Documents\\иски\\2 курс\\Объектно-ориентированное программирование\\OOPtask5\\OOPtask5\\OOPtask5.csproj",
+        "packagesPath": "C:\\Users\\dbate\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dbate\\OneDrive\\Documents\\иски\\2 курс\\Объектно-ориентированное программирование\\OOPtask5\\OOPtask5\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dbate\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net50": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net50": {
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.416\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
